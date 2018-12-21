@@ -19,7 +19,7 @@ watch = true
 exposedbydefault = false
 
 [acme]
-email = "support@heliostech.fr"
+email = "support@atlantex.co"
 storage = "acme.json"
 entryPoint = "https"
 OnHostRule = true
